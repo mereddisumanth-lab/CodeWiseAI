@@ -1,0 +1,17 @@
+# Node
+node_modules
+dist
+.env
+
+# Java
+target
+*.iml
+
+# OS
+.DS_Store
+
+# Docker
+*.log
+
+# Others
+.idea/
